@@ -66,7 +66,7 @@ Top predictors: OverallQual, GrLivArea, TotalBsmtSF, GarageCars, YearBuilt.
 - Cross-validation and RMSE evaluation
 
 ## Tech Stack
-`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Matplotlib` `Seaborn`
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
 
 ## How to Run
 1. Download dataset from [Kaggle House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
